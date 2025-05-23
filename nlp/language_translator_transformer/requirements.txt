@@ -1,0 +1,8 @@
+torch==2.1.2
+torchtext==0.16.2
+numpy<2
+datasets
+tokenizers
+torchmetrics
+tensorboard
+altair
